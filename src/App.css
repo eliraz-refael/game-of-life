@@ -1,0 +1,15 @@
+html, body {
+  background: #eee;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 10vh;
+  backgound: #ccc;
+}
+.row {
+  text-align: center;
+  display: flex;
+}
